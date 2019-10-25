@@ -1,0 +1,8 @@
+Smith-Richesse_des_Nations_1.txt
+Smith-Richesse_des_Nations_2.txt
+Smith-Richesse_des_Nations_3.txt
+Smith-Richesse_des_Nations_4.txt
+Smith-Richesse_des_Nations_5.txt
+Spinoza-Ethique.txt
+Spinoza-Reforme.txt
+Spinoza-Traite_Politique.txt
